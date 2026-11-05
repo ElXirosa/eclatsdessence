@@ -1,0 +1,598 @@
+{
+  "products": [
+    {
+      "id": "a1f2",
+      "nom": "Oud Impérial",
+      "reference": "EDE-300",
+      "prix": 139,
+      "famille": "Oriental",
+      "genre": "Homme",
+      "volume": "100 ml",
+      "stock": 7,
+      "notes": [
+        "oud",
+        "ambre",
+        "cardamome",
+        "santal"
+      ],
+      "description": "Un oud impérial aux résonances profondes et précieuses.",
+      "collection": "Prestige",
+      "note": 4.9,
+      "image": ""
+    },
+    {
+      "id": "b2c3",
+      "nom": "Lilas Blanc",
+      "reference": "EDE-301",
+      "prix": 61,
+      "famille": "Floral",
+      "genre": "Femme",
+      "volume": "75 ml",
+      "stock": 22,
+      "notes": [
+        "jasmin",
+        "rose",
+        "musc blanc",
+        "bergamote"
+      ],
+      "description": "Un lilas délicat et aérien aux accords floraux lumineux.",
+      "collection": "Signature",
+      "note": 4.1,
+      "image": ""
+    },
+    {
+      "id": "c3d4",
+      "nom": "Cèdre Glacé",
+      "reference": "EDE-302",
+      "prix": 54.5,
+      "famille": "Boisé",
+      "genre": "Mixte",
+      "volume": "100 ml",
+      "stock": 18,
+      "notes": [
+        "cèdre",
+        "pin",
+        "musc blanc",
+        "bergamote"
+      ],
+      "description": "Un boisé froid et minéral aux accents alpins.",
+      "collection": "Hiver",
+      "note": 3.9,
+      "image": ""
+    },
+    {
+      "id": "d4e5",
+      "nom": "Agrume d'Été",
+      "reference": "EDE-303",
+      "prix": 39.9,
+      "famille": "Citrus",
+      "genre": "Mixte",
+      "volume": "50 ml",
+      "stock": 38,
+      "notes": [
+        "citron",
+        "bergamote",
+        "musc blanc",
+        "jasmin"
+      ],
+      "description": "Une explosion d'agrumes frais pour les journées estivales.",
+      "collection": "Été",
+      "note": 3.7,
+      "image": ""
+    },
+    {
+      "id": "e5f6",
+      "nom": "Poivre Sauvage",
+      "reference": "EDE-304",
+      "prix": 83,
+      "famille": "Épicé",
+      "genre": "Homme",
+      "volume": "100 ml",
+      "stock": 11,
+      "notes": [
+        "cardamome",
+        "patchouli",
+        "ambre",
+        "cèdre"
+      ],
+      "description": "Un épicé intense aux accents sauvages et boisés.",
+      "collection": "Évasion",
+      "note": 4.3,
+      "image": ""
+    },
+    {
+      "id": "f6a7",
+      "nom": "Musc Céleste",
+      "reference": "EDE-305",
+      "prix": 47,
+      "famille": "Floral",
+      "genre": "Femme",
+      "volume": "50 ml",
+      "stock": 31,
+      "notes": [
+        "musc blanc",
+        "rose",
+        "iris",
+        "bergamote"
+      ],
+      "description": "Un musc céleste et délicat aux notes florales légères.",
+      "collection": "Nouveauté",
+      "note": 4,
+      "image": ""
+    },
+    {
+      "id": "a7b8",
+      "nom": "Résine Noire",
+      "reference": "EDE-306",
+      "prix": 122,
+      "famille": "Oriental",
+      "genre": "Mixte",
+      "volume": "100 ml",
+      "stock": 5,
+      "notes": [
+        "encens",
+        "oud",
+        "ambre",
+        "patchouli"
+      ],
+      "description": "Une résine noire mystérieuse aux accords orientaux envoutants.",
+      "collection": "Édition limitée",
+      "dateButoire": "2026-07-15T23:59",
+      "note": 4.8,
+      "image": ""
+    },
+    {
+      "id": "b8c9",
+      "nom": "Brise Marine",
+      "reference": "EDE-307",
+      "prix": 42.5,
+      "famille": "Frais",
+      "genre": "Homme",
+      "volume": "75 ml",
+      "stock": 29,
+      "notes": [
+        "citron",
+        "musc blanc",
+        "bergamote",
+        "ambre"
+      ],
+      "description": "Une brise marine vivifiante aux accents iodés et frais.",
+      "collection": "Évasion",
+      "note": 3.6,
+      "image": ""
+    },
+    {
+      "id": "c9d1",
+      "nom": "Santal Rose",
+      "reference": "EDE-308",
+      "prix": 98,
+      "famille": "Boisé",
+      "genre": "Femme",
+      "volume": "100 ml",
+      "stock": 12,
+      "notes": [
+        "santal",
+        "rose",
+        "ambre",
+        "musc blanc"
+      ],
+      "description": "Un santal crémeux sublimé par des accords floraux rosés.",
+      "collection": "Signature",
+      "note": 4.5,
+      "image": ""
+    },
+    {
+      "id": "d1e2",
+      "nom": "Épice Orientale",
+      "reference": "EDE-309",
+      "prix": 74.9,
+      "famille": "Épicé",
+      "genre": "Femme",
+      "volume": "75 ml",
+      "stock": 15,
+      "notes": [
+        "cardamome",
+        "jasmin",
+        "ambre",
+        "musc blanc"
+      ],
+      "description": "Un voile épicé aux accords orientaux féminins et enveloppants.",
+      "collection": "Promotion",
+      "dateButoire": "2026-06-30T20:00",
+      "pourcentage": 20,
+      "note": 4.4,
+      "image": ""
+    },
+    {
+      "id": "e2f3",
+      "nom": "Vétiver & Sel",
+      "reference": "EDE-310",
+      "prix": 66,
+      "famille": "Boisé",
+      "genre": "Homme",
+      "volume": "100 ml",
+      "stock": 16,
+      "notes": [
+        "patchouli",
+        "cèdre",
+        "santal",
+        "ambre"
+      ],
+      "description": "Un vétiver salin aux accords boisés authentiques et profonds.",
+      "collection": "Évasion",
+      "note": 3.8,
+      "image": ""
+    },
+    {
+      "id": "f3a4",
+      "nom": "Tubéreuse Nuit",
+      "reference": "EDE-311",
+      "prix": 125,
+      "famille": "Floral",
+      "genre": "Femme",
+      "volume": "100 ml",
+      "stock": 6,
+      "notes": [
+        "tubéreuse",
+        "jasmin",
+        "ambre",
+        "musc blanc"
+      ],
+      "description": "La tubéreuse s'éveille la nuit dans un accord chaud et envoûtant.",
+      "collection": "Édition limitée",
+      "dateButoire": "2026-08-20T23:59",
+      "note": 4.9,
+      "image": ""
+    },
+    {
+      "id": "a4b5",
+      "nom": "Thé Blanc Pur",
+      "reference": "EDE-312",
+      "prix": 45,
+      "famille": "Citrus",
+      "genre": "Mixte",
+      "volume": "75 ml",
+      "stock": 34,
+      "notes": [
+        "bergamote",
+        "citron",
+        "menthe",
+        "musc blanc"
+      ],
+      "description": "Un thé blanc pur aux notes fraîches et végétales apaisantes.",
+      "collection": "Été",
+      "note": 3.8,
+      "image": ""
+    },
+    {
+      "id": "b5c6",
+      "nom": "Amber Mystique",
+      "reference": "EDE-313",
+      "prix": 105,
+      "famille": "Oriental",
+      "genre": "Femme",
+      "volume": "100 ml",
+      "stock": 9,
+      "notes": [
+        "ambre",
+        "tubéreuse",
+        "cardamome",
+        "oud"
+      ],
+      "description": "Un ambre mystique aux profondeurs orientales sensuelles.",
+      "collection": "Prestige",
+      "note": 4.7,
+      "image": ""
+    },
+    {
+      "id": "c6d7",
+      "nom": "Pin Maritime",
+      "reference": "EDE-314",
+      "prix": 52,
+      "famille": "Frais",
+      "genre": "Mixte",
+      "volume": "100 ml",
+      "stock": 24,
+      "notes": [
+        "pin",
+        "bergamote",
+        "menthe",
+        "cèdre"
+      ],
+      "description": "Une escapade dans les forêts de pins aux accents maritimes.",
+      "collection": "Nouveauté",
+      "note": 3.9,
+      "image": ""
+    },
+    {
+      "id": "d7e8",
+      "nom": "Rose de Damas",
+      "reference": "EDE-315",
+      "prix": 89,
+      "famille": "Floral",
+      "genre": "Femme",
+      "volume": "75 ml",
+      "stock": 13,
+      "notes": [
+        "rose",
+        "iris",
+        "musc blanc",
+        "ambre"
+      ],
+      "description": "La rose de Damas dans toute sa noblesse florale et poudrée.",
+      "collection": "Promotion",
+      "dateButoire": "2026-07-10T21:00",
+      "pourcentage": 15,
+      "note": 4.6,
+      "image": ""
+    },
+    {
+      "id": "e8f9",
+      "nom": "Citrus Glacier",
+      "reference": "EDE-316",
+      "prix": 37.5,
+      "famille": "Citrus",
+      "genre": "Homme",
+      "volume": "50 ml",
+      "stock": 42,
+      "notes": [
+        "citron",
+        "bergamote",
+        "musc blanc",
+        "cèdre"
+      ],
+      "description": "Un citrus glacial aux accords toniques et boisés légers.",
+      "collection": "Été",
+      "note": 3.5,
+      "image": ""
+    },
+    {
+      "id": "f9a1",
+      "nom": "Cardamome & Or",
+      "reference": "EDE-317",
+      "prix": 111,
+      "famille": "Épicé",
+      "genre": "Mixte",
+      "volume": "100 ml",
+      "stock": 8,
+      "notes": [
+        "cardamome",
+        "ambre",
+        "oud",
+        "santal"
+      ],
+      "description": "Un épicé doré aux accords précieux et chaleureux.",
+      "collection": "Prestige",
+      "note": 4.8,
+      "image": ""
+    },
+    {
+      "id": "a1c3",
+      "nom": "Jasmin du Soir",
+      "reference": "EDE-318",
+      "prix": 59,
+      "famille": "Floral",
+      "genre": "Mixte",
+      "volume": "50 ml",
+      "stock": 26,
+      "notes": [
+        "jasmin",
+        "bergamote",
+        "musc blanc",
+        "ambre"
+      ],
+      "description": "Un jasmin du soir lumineux et solaire aux accords floraux doux.",
+      "collection": "Signature",
+      "note": 4,
+      "image": ""
+    },
+    {
+      "id": "b3e5",
+      "nom": "Oud & Santal",
+      "reference": "EDE-319",
+      "prix": 132,
+      "famille": "Boisé",
+      "genre": "Homme",
+      "volume": "100 ml",
+      "stock": 4,
+      "notes": [
+        "oud",
+        "santal",
+        "ambre",
+        "patchouli"
+      ],
+      "description": "Une fusion majestueuse de bois précieux et d'oud rare.",
+      "collection": "Édition limitée",
+      "dateButoire": "2026-09-01T23:59",
+      "note": 4.9,
+      "image": ""
+    },
+    {
+      "id": "c5f7",
+      "nom": "Bergamote & Iris",
+      "reference": "EDE-320",
+      "prix": 70,
+      "famille": "Citrus",
+      "genre": "Femme",
+      "volume": "75 ml",
+      "stock": 20,
+      "notes": [
+        "bergamote",
+        "iris",
+        "musc blanc",
+        "rose"
+      ],
+      "description": "Une bergamote fraîche sublimée par l'iris noble et poudré.",
+      "collection": "Promotion",
+      "dateButoire": "2026-06-15T18:00",
+      "pourcentage": 10,
+      "note": 4.2,
+      "image": ""
+    },
+    {
+      "id": "d7a9",
+      "nom": "Encens & Cèdre",
+      "reference": "EDE-321",
+      "prix": 94,
+      "famille": "Boisé",
+      "genre": "Mixte",
+      "volume": "100 ml",
+      "stock": 14,
+      "notes": [
+        "encens",
+        "cèdre",
+        "ambre",
+        "musc blanc"
+      ],
+      "description": "Un encens boisé aux résonances spirituelles et profondes.",
+      "collection": "Hiver",
+      "note": 4.3,
+      "image": ""
+    },
+    {
+      "id": "e9b2",
+      "nom": "Menthe Polaire",
+      "reference": "EDE-322",
+      "prix": 48,
+      "famille": "Frais",
+      "genre": "Homme",
+      "volume": "75 ml",
+      "stock": 32,
+      "notes": [
+        "menthe",
+        "pin",
+        "bergamote",
+        "musc blanc"
+      ],
+      "description": "Une menthe polaire revigorante aux grands espaces glaciaux.",
+      "collection": "Hiver",
+      "note": 3.6,
+      "image": ""
+    },
+    {
+      "id": "f2c4",
+      "nom": "Patchouli Doré",
+      "reference": "EDE-323",
+      "prix": 78,
+      "famille": "Oriental",
+      "genre": "Homme",
+      "volume": "100 ml",
+      "stock": 17,
+      "notes": [
+        "patchouli",
+        "ambre",
+        "cardamome",
+        "oud"
+      ],
+      "description": "Un patchouli doré aux accents orientaux riches et enveloppants.",
+      "collection": "Promotion",
+      "dateButoire": "2026-08-01T20:00",
+      "pourcentage": 12,
+      "note": 4.1,
+      "image": ""
+    },
+    {
+      "id": "a4d6",
+      "nom": "Fleur de Cerisier",
+      "reference": "EDE-324",
+      "prix": 64,
+      "famille": "Floral",
+      "genre": "Femme",
+      "volume": "75 ml",
+      "stock": 23,
+      "notes": [
+        "rose",
+        "jasmin",
+        "musc blanc",
+        "bergamote"
+      ],
+      "description": "Un printemps japonais en flacon, délicat et poétique.",
+      "collection": "Nouveauté",
+      "note": 3.9,
+      "image": ""
+    },
+    {
+      "id": "b6e8",
+      "nom": "Poivre & Encens",
+      "reference": "EDE-325",
+      "prix": 116,
+      "famille": "Épicé",
+      "genre": "Mixte",
+      "volume": "100 ml",
+      "stock": 7,
+      "notes": [
+        "cardamome",
+        "encens",
+        "ambre",
+        "patchouli"
+      ],
+      "description": "Un épicé fumé aux accords mystiques et profondément sensuels.",
+      "collection": "Édition limitée",
+      "dateButoire": "2026-07-31T23:59",
+      "note": 4.7,
+      "image": ""
+    },
+    {
+      "id": "c8f1",
+      "nom": "Aqua Vitae",
+      "reference": "EDE-326",
+      "prix": 55,
+      "famille": "Frais",
+      "genre": "Femme",
+      "volume": "75 ml",
+      "stock": 28,
+      "notes": [
+        "citron",
+        "musc blanc",
+        "jasmin",
+        "bergamote"
+      ],
+      "description": "Une eau de vie fraîche et lumineuse aux accords aquatiques purs.",
+      "collection": "Évasion",
+      "note": 4,
+      "image": ""
+    },
+    {
+      "id": "d1a3",
+      "nom": "Musc Oriental",
+      "reference": "EDE-327",
+      "prix": 86,
+      "famille": "Oriental",
+      "genre": "Femme",
+      "volume": "75 ml",
+      "stock": 10,
+      "notes": [
+        "musc blanc",
+        "ambre",
+        "jasmin",
+        "tubéreuse"
+      ],
+      "description": "Un musc oriental sensuel et enveloppant aux notes féminines.",
+      "collection": "Promotion",
+      "dateButoire": "2026-09-15T20:00",
+      "pourcentage": 18,
+      "note": 4.5,
+      "image": ""
+    },
+    {
+      "id": "e3b5",
+      "nom": "Bois de Santal",
+      "reference": "EDE-328",
+      "prix": 77,
+      "famille": "Boisé",
+      "genre": "Mixte",
+      "volume": "100 ml",
+      "stock": 19,
+      "notes": [
+        "santal",
+        "cèdre",
+        "musc blanc",
+        "ambre"
+      ],
+      "description": "Un bois de santal pur et crémeux aux reflets ambrés chauds.",
+      "collection": "Signature",
+      "note": 4.2,
+      "image": ""
+    }
+  ]
+}

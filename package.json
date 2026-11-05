@@ -1,0 +1,22 @@
+{
+  "name": "eclatdessences",
+  "version": "1.0.0",
+  "description": "Site de parfum test",
+  "type": "module",
+  "main": "scripts/main.js",
+  "scripts": {
+  "dev": "vite",
+  "start": "vite",
+  "build": "vite build"
+  },
+  "author": "Xirosa",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "vite": "^8.0.11"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "paginate-array": "^2.1.0"
+  }
+}
